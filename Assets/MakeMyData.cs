@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class MakeMyData : MonoBehaviour
 {
-    public GameObject test_text = null;
-    private MyData data;
+    //public GameObject test_text = null;
+    public MyData data;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,8 +22,8 @@ public class MakeMyData : MonoBehaviour
             data.myName = "Ryo";
             data.hp = Random.Range(10, 50);
             data.attackPower = 10f;
-            Text text = test_text.GetComponent<Text>();
-            text.text = data.myName + " : " + data.hp + " : " + data.attackPower;
+            //Text text = test_text.GetComponent<Text>();
+            //text.text = data.myName + " : " + data.hp + " : " + data.attackPower;
             Debug.Log(data.myName + " : " + data.hp + " : " + data.attackPower);
         }else if (Input.GetButtonDown("Fire2"))
         {

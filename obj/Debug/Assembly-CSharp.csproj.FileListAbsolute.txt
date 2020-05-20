@@ -237,3 +237,4 @@ C:\Users\ryzen\Documents\UnityDB\obj\Debug\Assembly-CSharp.csproj.CoreCompileInp
 C:\Users\ryzen\Documents\UnityDB\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\ryzen\Documents\UnityDB\obj\Debug\Assembly-CSharp.dll
 C:\Users\ryzen\Documents\UnityDB\obj\Debug\Assembly-CSharp.pdb
+C:\Users\ryzen\Documents\UnityDB\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
